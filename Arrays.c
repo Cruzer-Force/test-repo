@@ -5,16 +5,9 @@ int catmarks[6] = {94, 53, 80, 32, 56, 35};
 
 int smallest = catmarks[0], i;
 
-for(i=0 ; i<6 ; i++){
-    if(catmarks[i] < smallest){
-        smallest = catmarks[i];
-    }
-}
-printf("The largest element is : %d",smallest);
 
-return 0;
 
-}
+return 0;}
 
 
 
