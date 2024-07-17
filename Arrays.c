@@ -5,7 +5,7 @@ int catmarks[6] = {94, 53, 80, 32, 56, 35};
 
 int smallest = catmarks[0], i;
 
-
+for(i=0;i<6;i++);
 
 return 0;}
 
